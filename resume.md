@@ -12,6 +12,7 @@ A student majoring in Geography: data science track. I love creating maps and da
 Summer Project Intern: Bellevue School District
 
 ## University of Washington (Seattle, WA)
+![logo](https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/98/2014/09/07214435/Signature_Stacked_Purple_Hex.png)
 
 >"The UW is a multi-campus university in Seattle, Tacoma and Bothell, as well as a world-class academic medical center".
 
