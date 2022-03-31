@@ -6,49 +6,21 @@ link to linkedin
 
 # Summary
 
-A student majoring in Geography: data science track.
+A student majoring in Geography: data science track. I love creating maps and data visualizations as well as crafting a variety of data analysis and machine learning models!
 
 # Work Experience
 Summer Project Intern: Bellevue School District
 
-## University of Washingtong (Seattle, WA)
+## University of Washington (Seattle, WA)
 
-* [University 1][] description, particularly if not well-known.*
+>"The UW is a multi-campus university in Seattle, Tacoma and Bothell, as well as a world-class academic medical center".
 
-** Undergrad** (Sep 2018 - June 2022)
+**Undergrad** (Sep 2018 - June 2022)
 
-Summary of your role
+- Created and published an [analysis](https://mullepd.shinyapps.io/final-project-mullepd/) on the World Happiness Report **using R and Rstudio**.
+- Crafted an atlas of maps exploring health outcomes and high school eduaction inequalities in WA using **Qgis**
+- Implemented a **naive bayes classifier** from scratch using Python
+- Created and published and [analysis](https://medium.com/@gherma/political-reddit-climates-in-the-us-versus-uk-7c1776d9fb00) on political climates in Reddit using **sentiment analysis** in Python
+- Created a [story map](https://arcg.is/14jCrK0) comparing park accessibility between Seattle and Vancouver using **ArcGIS Pro**
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 2 (City, State)
-* [University 2][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
+University of Washington: https://www.washington.edu/
