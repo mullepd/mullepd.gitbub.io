@@ -11287,6 +11287,6 @@ textarea.form-control-lg {
   }
 }
 body {
-  background: url("C:\Users\parke\OneDrive\Documents\ArcGIS\Projects 317\Assignment 6\Layout.jpg") no-repeat center center fixed;
+  background: url(Layout.jpg) no-repeat center center fixed;
   background-size: cover;
 }
